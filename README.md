@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandramanitelang
-- 👀 I’m interested in Web Development (HTML, CSS, JS, Reactjs, Redux)
+- 👀 I’m interested in Web Development (HTML, CSS, JS, Reactjs, Redux,C++)
 - 🌱 I’m currently learning React/Redux
 - 📫 How to reach me https://www.linkedin.com/in/chandramani-telang-5a1102158/
 
